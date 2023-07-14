@@ -1,0 +1,436 @@
+[
+  {
+    "id": "38c83b60-2a22-4285-b359-fe509859320b",
+    "artist": "Fatboy Slim",
+    "albums": [
+      {
+        "id": "3aa23e30-8498-475f-825f-d3fc63787bab",
+        "album": "You've Come a Long Way, Baby",
+        "released": "1998-10-19",
+        "tracks": [
+          {
+            "id": "c901e598-c606-4d83-a7aa-c214cd2e8caa",
+            "no": 1,
+            "title": "Right Here, Right Now"
+          },
+          {
+            "id": "1f653541-dcb2-4772-9def-a913260b192b",
+            "no": 2,
+            "title": "The Rockafeller Skank"
+          },
+          {
+            "id": "ae81e32e-2afc-4193-951f-774fad561e16",
+            "no": 3,
+            "title": "In Heaven"
+          },
+          {
+            "id": "a3fde810-2d16-42b7-838e-bc2bf6dbf63b",
+            "no": 4,
+            "title": "Gangster Tripping"
+          },
+          {
+            "id": "9bd84cc1-2bb0-46e9-8846-d282f69ad7a5",
+            "no": 5,
+            "title": "Build It Up – Tear It Down"
+          },
+          {
+            "id": "1c2de7b7-eed6-424b-b280-f0e7ea2cb135",
+            "no": 6,
+            "title": "Kalifornia"
+          },
+          {
+            "id": "978d60a5-3195-494f-aa1f-a35be7868051",
+            "no": 7,
+            "title": "Soul Surfing"
+          },
+          {
+            "id": "99bd57a4-0c07-49e7-90b8-42bc5959ad19",
+            "no": 8,
+            "title": "You're Not from Brighton"
+          },
+          {
+            "id": "41d071ea-92a2-4b57-83f2-1cdc2678ddd2",
+            "no": 9,
+            "title": "Praise You"
+          },
+          {
+            "id": "04d76b9f-badb-4bef-8cae-70da1d81ce1c",
+            "no": 10,
+            "title": "Love Island"
+          },
+          {
+            "id": "78cde4dc-7c1b-416d-9086-ac5fca169be8",
+            "no": 11,
+            "title": "Acid 8000"
+          }
+        ]
+      },
+      {
+        "id": "fc1f03e1-6e23-4f78-a3b9-23aa66431bdf",
+        "album": "Halfway Between the Gutter and the Stars",
+        "released": "2000-11-06",
+        "tracks": [
+          {
+            "id": "4af88f78-f46e-4eb7-a248-ebcdb4a8646e",
+            "no": 1,
+            "title": "Talking Bout My Baby"
+          },
+          {
+            "id": "b428845c-535c-485f-bdd1-d0f165059a28",
+            "no": 2,
+            "title": "Star 69"
+          },
+          {
+            "id": "e66ce4cd-e531-497c-81ae-022ea421d754",
+            "no": 3,
+            "title": "Sunset (Bird of Prey)"
+          },
+          {
+            "id": "7ff38725-b368-4be6-91d1-cf17bd072f70",
+            "no": 4,
+            "title": "Love Life"
+          },
+          {
+            "id": "75d08d4d-9b87-4da5-a4eb-b8a1cecd68ac",
+            "no": 5,
+            "title": "Ya Mama"
+          },
+          {
+            "id": "04164363-ad54-48e8-9923-67addf4fe731",
+            "no": 6,
+            "title": "Mad Flava"
+          },
+          {
+            "id": "a9b6610d-a0b2-4948-9a36-4b5e5480b908",
+            "no": 7,
+            "title": "Retox"
+          },
+          {
+            "id": "8e1f6da2-5ba5-4a56-b934-993f61741118",
+            "no": 8,
+            "title": "Weapon of Choice"
+          },
+          {
+            "id": "e60ecd30-6699-4257-9ca3-0c2c809a6694",
+            "no": 9,
+            "title": "Drop the Hate"
+          },
+          {
+            "id": "f3933ebf-66f4-4ece-835a-963df83dc235",
+            "no": 10,
+            "title": "Demons"
+          },
+          {
+            "id": "5df4b0ef-ddf9-4f43-938e-40700a66f3d4",
+            "no": 11,
+            "title": "Song for Shelter"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "09240634-93dd-4da0-92bb-a69774199ea0",
+    "artist": "Dreamers Delight",
+    "albums": [
+      {
+        "id": "0540deff-7cc6-4551-ad77-75d3820fa489",
+        "album": "Awake EP",
+        "released": "2015-07-21",
+        "tracks": [
+          {
+            "id": "5154b912-0800-4fda-8a45-c980523e2c19",
+            "no": 1,
+            "title": "Around (Extended Version)"
+          },
+          {
+            "id": "7966624b-fdb2-45e4-af7a-798501ed5f2c",
+            "no": 2,
+            "title": "Awake"
+          },
+          {
+            "id": "ace54763-6872-4c45-b4e1-d0aae10ab003",
+            "no": 3,
+            "title": "Olives"
+          },
+          {
+            "id": "5d1c0f1d-feb9-4db3-a68a-05daee3ee708",
+            "no": 4,
+            "title": "These Lies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "86839f62-332a-4e6d-8c5d-e67870f24d93",
+    "artist": "Emancipator",
+    "albums": [
+      {
+        "id": "cdcefca1-26bb-47ad-afc7-f2fcbbd9aec9",
+        "album": "Baralku",
+        "released": "2017-11-14",
+        "tracks": [
+          {
+            "id": "bd23e7a7-0c18-46bb-bf66-cb051d744f35",
+            "no": 1,
+            "title": "Baralku"
+          },
+          {
+            "id": "927b265f-b846-48c2-8b55-03aac161c062",
+            "no": 2,
+            "title": "Ghost Pong"
+          },
+          {
+            "id": "a2a0b52e-30bf-4619-892e-6e35419cd52d",
+            "no": 3,
+            "title": "Mako"
+          },
+          {
+            "id": "25cd6541-05cd-4af4-aee9-ef449ee3e447",
+            "no": 4,
+            "title": "Daffodil Pickles"
+          },
+          {
+            "id": "1d9f762b-f8b6-4ded-9f8a-6cfd70261e13",
+            "no": 5,
+            "title": "Tree Hunt"
+          },
+          {
+            "id": "4638c5ff-6488-48c0-b6dd-c4d86800318b",
+            "no": 6,
+            "title": "Abracadabra"
+          },
+          {
+            "id": "84fb29e8-8e77-4a12-a19c-fe452d3d6736",
+            "no": 7,
+            "title": "Goodness"
+          },
+          {
+            "id": "b0e467ff-edec-4137-8170-e96c6000fc50",
+            "no": 8,
+            "title": "Udon"
+          },
+          {
+            "id": "0f0abe31-59e2-4bf4-9b1b-76a7c245e14a",
+            "no": 9,
+            "title": "Bat Country"
+          },
+          {
+            "id": "3b1ecbb2-4616-4c41-9de8-92d57e8883ec",
+            "no": 10,
+            "title": "Pancakes"
+          },
+          {
+            "id": "9bc6e02a-dbce-4f78-a0c1-ee8d5c3bc269",
+            "no": 11,
+            "title": "Rappahannock"
+          },
+          {
+            "id": "186b5c4d-86cd-45da-8b93-1ebbb595e12f",
+            "no": 12,
+            "title": "Winter Dub"
+          },
+          {
+            "id": "adb24b41-2cec-40d8-92c2-341818b9d6c6",
+            "no": 13,
+            "title": "Time For Space"
+          },
+          {
+            "id": "65968d50-98ca-4b63-b159-9d7f869fbc6b",
+            "no": 14,
+            "title": "Sands"
+          }
+        ]
+      },
+      {
+        "id": "e8dd843e-1ff0-4ecb-9495-0464bcb0c023",
+        "album": "Cheeba Gold EP",
+        "released": "2019-03-21",
+        "tracks": [
+          {
+            "id": "54da74fd-77f1-4c21-9a99-80b3cb120c2a",
+            "no": 1,
+            "title": "Chameleon"
+          },
+          {
+            "id": "0915bf7f-dc7c-4f4f-acfd-c3a942ec7216",
+            "no": 2,
+            "title": "Zula"
+          },
+          {
+            "id": "4c38f39f-57f8-4457-8952-5a291b80b033",
+            "no": 3,
+            "title": "Cuica"
+          },
+          {
+            "id": "e2275fcb-d1d1-4ac8-ba73-9458a3baaf7f",
+            "no": 4,
+            "title": "Bombilla"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c209193f-5f54-4133-a84f-6cf7cf8bea46",
+    "artist": "Pretty Lights",
+    "albums": [
+      {
+        "id": "876a19c5-e8a1-42e2-9e09-b392788665a3",
+        "album": "A Color Map of the Sun",
+        "released": "2013-07-02",
+        "tracks": [
+          {
+            "id": "c1802105-f2c5-4deb-9934-c1d50ef7e5dc",
+            "no": 1,
+            "title": "Color Of My Soul"
+          },
+          {
+            "id": "bb0b8194-5932-459f-a1c8-874fa27d8302",
+            "no": 2,
+            "title": "Press Pause"
+          },
+          {
+            "id": "39fe9828-fc4f-44a1-bdb9-43d8a869b691",
+            "no": 3,
+            "title": "Let's Get Busy"
+          },
+          {
+            "id": "af38e563-f290-4fb5-9884-819fd8e37bb1",
+            "no": 4,
+            "title": "Around The Block"
+          },
+          {
+            "id": "7f2779a1-6372-4ff7-b89d-4c1a22c44a16",
+            "no": 5,
+            "title": "Yellow Bird"
+          },
+          {
+            "id": "c43f88b2-5c7a-4640-8e38-aef348766aca",
+            "no": 6,
+            "title": "Go Down Sunshine"
+          },
+          {
+            "id": "f372a3f0-21c3-411d-be7f-02d7a7afdef6",
+            "no": 7,
+            "title": "So Bright"
+          },
+          {
+            "id": "5e8d476f-eb6e-4df0-b948-5617ca1acae1",
+            "no": 8,
+            "title": "Vibe Vendetta"
+          },
+          {
+            "id": "e21decee-ad87-4c3b-b529-594dfc641b1e",
+            "no": 9,
+            "title": "Done Wrong"
+          },
+          {
+            "id": "1c38ff16-b4b7-4a42-9209-e16b221e2804",
+            "no": 10,
+            "title": "Prophet"
+          },
+          {
+            "id": "414aa352-5c1a-46bb-a6ee-89c01dff09bf",
+            "no": 11,
+            "title": "One Day They'll Know"
+          },
+          {
+            "id": "6e5ddd8f-9d69-4e89-8161-663cf7eb6804",
+            "no": 12,
+            "title": "Always All Ways"
+          },
+          {
+            "id": "bde7c905-298f-4050-a4f0-2e9458a03b33",
+            "no": 13,
+            "title": "My Only Hope"
+          },
+          {
+            "id": "880170f9-f12d-4b2e-8491-871df9447a3b",
+            "no": 14,
+            "title": "Where I'm Trying To Go"
+          },
+          {
+            "id": "f56d1988-993a-4f15-bb95-a43b7e8c6560",
+            "no": 15,
+            "title": "All I've Ever Known"
+          },
+          {
+            "id": "2b96159d-5e16-42a5-a643-c0e1ab816abb",
+            "no": 16,
+            "title": "Sweet Long Life"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e0efa096-4dd4-4c25-a4df-4f88c02d62e9",
+    "artist": "Mitch Murder",
+    "albums": [
+      {
+        "id": "ddebff3e-430e-48f8-9399-d1076920298a",
+        "album": "Then Again",
+        "released": "2021-04-23",
+        "tracks": [
+          {
+            "id": "1eb82bbf-e9dc-4cd3-804c-e3793beac4af",
+            "no": 1,
+            "title": "Skybound"
+          },
+          {
+            "id": "cb5c669c-39d7-40ac-9526-9f8104e25eb2",
+            "no": 2,
+            "title": "Star Club"
+          },
+          {
+            "id": "59e20042-7150-483f-9e11-0134d5d3660b",
+            "no": 3,
+            "title": "Frost"
+          },
+          {
+            "id": "08106145-d44a-44eb-9439-773d531ff382",
+            "no": 4,
+            "title": "Ocean Parkway"
+          },
+          {
+            "id": "b518ba92-89bc-4988-95f2-44e290f8b83c",
+            "no": 5,
+            "title": "Then Again"
+          },
+          {
+            "id": "cddaa281-0713-44f7-bbdf-9f968417ef09",
+            "no": 6,
+            "title": "Body Talk"
+          },
+          {
+            "id": "4c4dba3c-8510-4f17-8777-2bc572b1750f",
+            "no": 7,
+            "title": "Twilight Marina"
+          },
+          {
+            "id": "d558e44c-de93-473d-b183-a26cf84d3af6",
+            "no": 8,
+            "title": "Island Line"
+          },
+          {
+            "id": "fa301f98-a946-4fbe-ba12-9e5ab9139b6c",
+            "no": 9,
+            "title": "Prism"
+          },
+          {
+            "id": "c0dd4fbd-bef2-4248-8600-ebdbfef216ea",
+            "no": 10,
+            "title": "Shirahama"
+          },
+          {
+            "id": "a99a2c06-6f99-4c6a-9deb-84b0f41eca8f",
+            "no": 11,
+            "title": "Someplace Else"
+          }
+        ]
+      }
+    ]
+  }
+]
